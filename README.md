@@ -69,4 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Irene Marzola
+### Collaboratori
+
+- Luca Ansaloni
+- Giorgio Stancari
+- Luca Tolomelli
+- Cleber
+- Ciao da Riccardo Gallini
+- Lorenzo Leprotti
+- Paolo Soavi
+- Irene Marzola
