@@ -80,5 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Paolo Soavi
 - Alessandra Bonora
 - Irene Marzola 
-- Paola Rolfini
+- Paola Rolfini Test GHD
 - Michele Venturi
