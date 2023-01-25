@@ -75,4 +75,6 @@ Filippo Curati
 Luca Ansaloni
 Giorgio Stancari
 Cleber
-
+- Luca Ansaloni
+- Giorgio Stancari
+- Luca Tolomelli
