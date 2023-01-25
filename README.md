@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Collaboratori
 Giorgio Stancari
 Filippo Curati
+Luca Ansaloni
+Giorgio Stancari
+Cleber
+
