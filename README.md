@@ -78,4 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Ciao da Riccardo Gallini
 - Lorenzo Leprotti
 - Paolo Soavi
-- Irene Marzola
+- Irene Marzola 
