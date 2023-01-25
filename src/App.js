@@ -5,7 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+<<<<<<< HEAD
         <img src="https://www.centrosoftware.com/sites/default/files/cs-logo-w-tec_0.png" className="App-logo" alt="logo" />
+=======
+      <img src="https://www.centrosoftware.com/sites/default/files/cs-logo-w-tec_0.png" className="App-logo" alt="logo" />
+>>>>>>> main
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
